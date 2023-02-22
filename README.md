@@ -1,0 +1,1 @@
+# -for-loop-and-will-iterate-from-0-to-15.-it-will-check-no-is-odd-or-even.-
